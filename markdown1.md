@@ -37,7 +37,7 @@
     - Name ：jinqiu （Name前面加四个空格与-）   
     - QQ   ：1164447013
 ### 有序列表  
-1.Name:jinqiu  （Name前面加1.或者2. 或者3.）
+1.Name:jinqiu  （Name前面加1.或者2. 或者3.）  
 2.QQ  ：1164447013  
    
 
