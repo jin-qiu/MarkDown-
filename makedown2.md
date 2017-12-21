@@ -5,7 +5,7 @@
 ## 链接
 ### 内嵌式链接
 - 外部链接[百度](http://www.baidu.com)  
-- 内部链接1 连接仓库其他文件：[markdown1](markdown.md)
+- 内部链接1 连接仓库其他文件：[markdown1](markdown1.md)
 - 内部链接2  连接本文档内容  ：[代码块 code](makedown2.md#代码块-code)
 
 ### 引用式链接
